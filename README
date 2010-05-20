@@ -1,0 +1,9 @@
+This package implements a SecurityProvider to use with the Milton 
+WebDAV API (http://milton.ettrema.com). The provider allows a login 
+to Milton with your existing Linux user accounts.
+
+Only the basic auth mode is enabled currently.
+
+To use this provider you have to install JPAM:
+http://jpam.sourceforge.net/documentation/configuration.html
+
